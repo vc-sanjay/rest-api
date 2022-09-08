@@ -1,0 +1,16 @@
+{
+    "name": "viitorcloud/gatekeeper",
+    "description": "Protect pages from access with a universal password.",
+    "autoload": {
+        "psr-4": {
+            "Viitorcloud\\Gatekeeper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VC-Sanjay",
+            "email": "sanjay.sagathiya@viitor.cloud"
+        }
+    ],
+    "require": {}
+}
